@@ -126,7 +126,7 @@ gcc dns_lookup.c -o dns_lookup
 
 | 字段                         | 你的截图中的值 |
 | :--------------------------- | :------------- |
-| 事务 ID（Transaction ID）    | 0x6d75               |
+| 事务 ID（Transaction ID）    | 0x77f3               |
 | 查询域名（Query Name）       | www.yxnu.edu.cn             |
 | 查询类型（Type）             |A (1) (Host Address)                |
 | 目的端口                     | 53               |
@@ -141,7 +141,7 @@ gcc dns_lookup.c -o dns_lookup
 
 | 字段                         | 你的截图中的值 |
 | :--------------------------- | :------------- |
-| 事务 ID（Transaction ID）    | 0x6d75               |
+| 事务 ID（Transaction ID）    | 0x77f3               |
 | 返回码（Response Code）      | No error               |
 | 回答记录数（Answers）        | 1               |
 | 返回的 IP 地址               | 202.203.86.93               |

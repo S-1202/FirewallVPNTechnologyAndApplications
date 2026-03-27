@@ -1,5 +1,3 @@
 "No.","Time","Source","Destination","Protocol","Length","Info"
-"18","3.538807","172.19.60.60","202.203.85.88","DNS","75","Standard query 0x6d75 A www.yxnu.edu.cn"
-"19","3.637647","202.203.85.88","172.19.60.60","DNS","91","Standard query response 0x6d75 A www.yxnu.edu.cn A 202.203.86.93"
-"27","10.067339","172.19.60.60","202.203.85.88","DNS","73","Standard query 0x7c4e A www.baidu.com"
-"28","10.194632","202.203.85.88","172.19.60.60","DNS","135","Standard query response 0x7c4e A www.baidu.com CNAME www.a.shifen.com A 183.2.172.17 A 183.2.172.177"
+"1","0.000000","172.19.60.60","202.203.85.88","DNS","75","Standard query 0x77f3 A www.yxnu.edu.cn"
+"3","0.046312","202.203.85.88","172.19.60.60","DNS","91","Standard query response 0x77f3 A www.yxnu.edu.cn A 202.203.86.93"
